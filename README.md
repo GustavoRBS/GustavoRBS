@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GustavoRBS](https://github.com/GustavoRBS)
 
-- 💬 Ask me about **PHP | LLaravel | React.JS | React Native | Node.JS**
+- 💬 Ask me about **PHP | Laravel | React.JS | React Native | Node.JS**
 
 - 📫 How to reach me **gu.bailon@hotmail.com**
 
